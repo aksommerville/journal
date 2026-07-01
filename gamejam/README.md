@@ -29,4 +29,4 @@ Where a question is debatable, eg judges' vs public vote for Uplifting, I take w
 |  22 | 2026-01-14 | Uplifting 6    | 999 |   1/ 47 | Inversion            | Take Care         | From the Dark        | 3.187 | From judge's vote. 5th in public.    |
 |  23 | 2026-03-14 | Uplifting 7    | 871 |   5/ 32 | License to Illuse    | Figaro's Gambit   | One More Match       | 3.000 | From public vote. Ineligible, judge. |
 |  24 | 2026-04-26 | Gamedev.js     | 698 | 148/489 | XRM                  | Bauhaus Builder   | Rage Against Sapiens | 3.049 |                                      |
-|  25 | 2026-06-01 | Uplifting 8    |     |         |                      |                   |                      |       |                                      |
+|  25 | 2026-06-01 | Uplifting 8    | 999 |   1/ 27 | Kleptomania          | Kleptomania       | Castle Your Way Out  | 3.420 | From public vote. Ineligible, judge. |
