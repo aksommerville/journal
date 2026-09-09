@@ -60,6 +60,8 @@ The main rule for all characters is they are whatever the game needs them to be.
 - Vexularg
 - Inversion
 - Kleptomania
+- All Fifty Two
+- Just Below the Surface
 - Bellacopia Maleficia
 
 Dot has never been a secondary or incidental character, but I don't rule that out.
@@ -79,7 +81,7 @@ Or oddball one-off kind of things like Bellacopia's Barrel Hat.
 - Candy: Dead Weight, Bellacopia
 - Chalk: Full Moon
 - Cheese (speedup): Full Moon
-- Compass: Full Moon, Dead Weight, Bellacopia
+- Compass: Full Moon, Dead Weight, Just Below, Bellacopia
 - Crystal Ball: Bellacopia
 - Divining Rod: Bellacopia
 - Feather: Full Moon
@@ -99,7 +101,7 @@ Or oddball one-off kind of things like Bellacopia's Barrel Hat.
 - Power Glove: Bellacopia
 - Rocket Boots: Too Heavy
 - Seed (for planting): Full Moon
-- Shovel: Full Moon, Bellacopia
+- Shovel: Full Moon, Just Below, Bellacopia
 - Snowglobe: Full Moon, Dead Weight, Bellacopia
 - Stick: Bellacopia
 - Stopwatch: Too Heavy, Dead Weight, Bellacopia
@@ -110,7 +112,7 @@ Or oddball one-off kind of things like Bellacopia's Barrel Hat.
 - Vacuum: Too Heavy
 - Vanishing Cream: Bellacopia
 - Violin: Full Moon
-- Wand: Full Moon, Dead Weight, Bellacopia
+- Wand: Full Moon, Dead Weight, Just Below, Bellacopia
 - Wishbone: Wishbone
 
 If we ever feel like filling out the alphabet here...
