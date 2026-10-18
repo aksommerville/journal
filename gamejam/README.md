@@ -7,7 +7,7 @@ Where a question is debatable, eg judges' vs public vote for Uplifting, I take w
 |-----|------------|----------------|-----|---------|------------------------|-------------------|----------------------|-------|--------------------------------------|
 |   1 | 2024-01-08 | GDEX Winter    | 823 |   4/ 18 | Too Heavy              | Dorothy & Elena   | Hexenmeister         | 3.938 | Alex's treasure chest graphics.      |
 |   2 | 2024-08-01 | Low Rez        | 893 |  28/255 | Upsy-Downsy            | A Pond Beyond     | Clash Mastery        | 3.878 |                                      |
-|   3 | 2024-09-13 | js13k          | 930 |  14/188 | Economy of Motion      | Thirteenth Floor  | 13 Steps to Escape   | ----- | Scores not available.                |
+|   3 | 2024-09-13 | js13k          | 930 |  14/188 | Economy of Motion      | Thirteenth Floor  | 13 Steps to Escape   | 4.401 |                                      |
 |   4 | 2024-10-06 | GDEX           | 909 |   2/ 12 | Season of Penance      | Moon Juicer       | Intraspace           | 3.575 |                                      |
 |   5 | 2025-01-27 | Heaven Jam     | 947 |   2/ 20 | 30 Sec Apothecary      | Snail Game        | Don't Rush Password  | 3.889 |                                      |
 |   6 | 2025-02-16 | Flav Jam       | 833 |   2/  7 | Presto Changeo         | Paraverses        | Paraverses           | 2.125 |                                      |
@@ -31,5 +31,5 @@ Where a question is debatable, eg judges' vs public vote for Uplifting, I take w
 |  24 | 2026-04-26 | Gamedev.js     | 698 | 148/489 | XRM                    | Bauhaus Builder   | Rage Against Sapiens | 3.049 |                                      |
 |  25 | 2026-06-01 | Uplifting 8    | 999 |   1/ 27 | Kleptomania            | Kleptomania       | Castle Your Way Out  | 3.420 | From public vote. Ineligible, judge. |
 |  26 | 2026-08-16 | Low Rez        | 696 |  38/123 | All Fifty Two          | Lull Skulls       | Mr Swop              | 3.771 |                                      |
-|  27 | 2026-09-13 | js13k          |     |         | Just Below the Surface |                   |                      |       |                                      |
-
+|  27 | 2026-09-13 | js13k          | 419 | 174/299 | Just Below the Surface | Spectral Horn     | Gallop of Color      | 3.303 |                                      |
+|  28 | 2026-09-27 | GDEX           | 500 |   2/  3 | You Could Use A Nap    | Sir Dude World    | Sir Dude World       | ----- | With Alex and Aster. Code. Results not published as of 2026-10-18. |

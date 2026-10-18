@@ -43,9 +43,9 @@ This is the whole list from `./README.md`, even things I know we'll never be abl
 | Chetyorska                   | na      | na      | Timer |
 | Ivan Denisovich              | na      | na      | Timer |
 | Pocket Orchestra             | na      | na      | Timer |
-| Li'l Sitter                  | ?       | na      | TODO |
+| Li'l Sitter                  | 0:05:47 | na      | |
 | Sitter Pico                  | ?       | na      | TODO |
-| Full Moon                    | 0:02:19 | 0:03:59 | Using some ridiculous tricks |
+| Full Moon                    | 0:02:19 | 0:03:59 | Using some ridiculous tricks. Demo is under 1 minute Any%. |
 | Too Heavy                    | 0:02:23 | 0:04:50 | 100% if you get the Education and No Items medals. |
 | Upsy-Downsy                  | 0:03:24 | na      | Process time. |
 | Economy of Motion            | 0:01:28 | na      | "Time: 88", I assume that's seconds but don't remember. |
@@ -72,5 +72,5 @@ This is the whole list from `./README.md`, even things I know we'll never be abl
 | License to Illuse            | 0:00:40 | 0:01:27 | 100% if you collect all the coins. 1:27 is decidedly imperfect. |
 | XRM: Extreme Racing Machines | 0:03:02 | na      | Straight sum of race times, as reported. |
 | Kleptomania                  | 0:01:51 | 0:02:06 | |
-| All Fifty Two                | 0:05:47 | 0:05:47 | Oops my 100% test run came out faster than my Any%. The BBB code is cheating, invalid. |
-| Just Below the Surface       | 0:01:56 | na      | |
+| All Fifty Two                | 0:05:47 | 0:05:47 | Oops my 100% test run came out faster than my Any%. Only difference is the hat. The BBB code is cheating, invalid. |
+| Just Below the Surface       | 0:01:56 | na      | Heavy RNG; will vary. |

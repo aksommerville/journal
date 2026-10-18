@@ -86,3 +86,4 @@ LOC is the naive line count (`wc -l $(find src -name '*.[ch]' -or -name '*.js')`
 | 2026  | Kleptomania                  | lil  | Egg             |   97879 /  3761 | |
 | 2026  | All Fifty Two                | lil  | Egg             |  314120 /  4809 | Size unnecessarily inflated by the full world of unique tiles. |
 | 2026  | Just Below the Surface       | lil  | Web             | 1767825 /  3600 | Size of Deluxe CD-ROM Edition. js13k Edition is 13157 bytes. LOC is two almost identical copies of the game. |
+| 2026  | You Could Use A Nap          | lil  | Egg             |  105520 /  2983 | Graphics by Alex, music by Aster. |
