@@ -35,7 +35,7 @@ Leaving some notes 2026-08-12, projects I mean to pick up later, after Bellacopi
 - Set up a proper emulation system for running old Mac games. I've had it piecemeal here and there but never a solid single-source-of-truth kind of system. 68k and PowerPC are both in scope.
 - I'd like to try targetting some other exotic systems.
 - - Thumby Color
-- - Pippin
+- - Pippin: It's just a PowerPC Mac, so that's certainly appealing.
 - - NES
 - - SNES
 - - Gameboy
@@ -49,6 +49,5 @@ Game ideas floating around:
 - Black Bell. Dot and Moon collect medicine for sick people. Kind of a 2-player episodic Thirty Seconds Apothecary.
 - Clean Sweep. Dot runs a housekeeping service, and she has to clean the castle. The gag is that awesome adventure stuff happens, but is just a distraction from cleaning the floor.
 - Vampire Rescue. Sitter but vampires instead of children.
-- Randomly-generated treasure hunt. Strongly inclined to do this for js13k 2026, if the theme is amenable (starts tomorrow, as I write this!)
 - Sister Act: The Video Game. Multiplayer rhythm game for NES. If I ever figure out NES. Obviously we'll never get permission to distribute it, but it's still hilarious.
 - Dagger in the Dark: Murder mystery, works like a dinner party puzzle. There's a Pi project c 2014 called `mm` with the basic idea.

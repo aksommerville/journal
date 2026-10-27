@@ -34,9 +34,9 @@ This is the whole list from `./README.md`, even things I know we'll never be abl
 | Whack-A-Mole                 | na      | na      | |
 | Zombie                       | na      | na      | Unfinished |
 | Secret of the Octopotamus    | ?       | ?       | TODO |
+| Super Trivia Challenge       | na      | na      | |
 | Sitter 3                     | ?       | ?       | TODO |
 | Sitter 9                     | 0:36:46 | na      | |
-| Super Trivia Challenge       | na      | na      | |
 | Tag Team Adventure Quest     | 0:22:29 | na      | |
 | Campaign Trail of Mummy      | na      | na      | Timer |
 | Plunder Squad                | na      | na      | Variable |
@@ -44,7 +44,7 @@ This is the whole list from `./README.md`, even things I know we'll never be abl
 | Ivan Denisovich              | na      | na      | Timer |
 | Pocket Orchestra             | na      | na      | Timer |
 | Li'l Sitter                  | 0:05:47 | na      | |
-| Sitter Pico                  | ?       | na      | TODO |
+| Sitter Pico                  | 0:03:34 | na      | First time playing in a couple years. Could certainly be done faster. |
 | Full Moon                    | 0:02:19 | 0:03:59 | Using some ridiculous tricks. Demo is under 1 minute Any%. |
 | Too Heavy                    | 0:02:23 | 0:04:50 | 100% if you get the Education and No Items medals. |
 | Upsy-Downsy                  | 0:03:24 | na      | Process time. |

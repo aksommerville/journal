@@ -46,9 +46,9 @@ LOC is the naive line count (`wc -l $(find src -name '*.[ch]' -or -name '*.js')`
 | 2006? | Whack-A-Mole                 | lil  | Mac             |   90112         | Have binaries but haven't been able to run. Don't remember it. |
 | 2006? | Zombie                       | lil  | Mac             |  290816         | Have binaries. Unfinished. The one with a candy bar that shoots bees out of its mouth. |
 | 2008  | Secret of the Octopotamus    | BIG  | Pygame          | 1494423 /  4613 | From here down, I have source for everything. |
+| 2008  | Super Trivia Challenge       | lil  | Pygame          |    6230 /   376 | I think this is not the last version. |
 | 2008  | Sitter 3                     | lil  | Pygame          | 1189146 /  4096 | |
 | 2009  | Sitter 9                     | BIG  | Native,Wii      | 4816896 / 21584 | |
-| 2008  | Super Trivia Challenge       | lil  | Pygame          |    6230 /   376 | I think this is not the last version. |
 | 2013  | Tag Team Adventure Quest     | BIG  | Native          |  264856 / 15179 | |
 | 2015  | Campaign Trail of Mummy      | BIG  | Native          | 2448768 / 22247 | Some graphics by Pierce. |
 | 2018  | Plunder Squad                | BIG  | Native          | 1163062 / 96226 | First "very published" game, on Steam and Itch. |

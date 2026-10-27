@@ -34,7 +34,7 @@ Put people in a Dot game as needed and characterize them as needed.
 The main rule for all characters is they are whatever the game needs them to be.
 
 - Moon Song. Friend and rival. Korean. Wears a pink smock and hat. Full Moon, Spelling Bee, Opener of Cages, Vexularg, Bellacopia.
-- Goody Grief. Head of the coven. Saucy in an awkward way, think Nanny Ogg. Full Moon, Too Heavy, Spelling Bee.
+- Goody Grief. Head of the coven. Saucy in an awkward way, think Nanny Ogg. Full Moon, Too Heavy, Spelling Bee, Bellacopia.
 - Princess Priscilla. Dead Weight and Bellacopia. Never said her name in a game (hadn't picked one yet). Blue hair. Helpless, needs protected. Dead Weight, Bellacopia.
 - - Queen of Clocks had a Princess, but it wasn't Priscilla. I hadn't settled on her as a permanent character at that time.
 - Silver Sal. Swordsman and rogue. Planned as a hero in Fly By Night, but I'm not sure I'm ever making that one.
