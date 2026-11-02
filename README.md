@@ -51,3 +51,9 @@ Game ideas floating around:
 - Vampire Rescue. Sitter but vampires instead of children.
 - Sister Act: The Video Game. Multiplayer rhythm game for NES. If I ever figure out NES. Obviously we'll never get permission to distribute it, but it's still hilarious.
 - Dagger in the Dark: Murder mystery, works like a dinner party puzzle. There's a Pi project c 2014 called `mm` with the basic idea.
+
+Other things:
+
+- There should be a game jam where every participant gets dealt a specific disability to accomodate.
+- - Maybe we could work with a children's charity, and actually get specific kids to write for.
+- - Devs learn about accessibility, needy kids get a free custom game, everybody wins, innit?
