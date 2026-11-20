@@ -1,0 +1,63 @@
+Hello!! Thank you for your patience :D 
+If there is anything you want to share that I didn't ask, please feel free to tell me and I'll try to include it in the blog post! 
+Also, if there are any pics you'd like me to include in the blog, please send them over! Here are the questions:
+
+1. How long have you been developing games?
+
+2. What made you want to get into game dev? Is there a particular game that inspired you as a developer?
+
+3. What is something you've learned about game dev that you wish you knew when you started? Do you have any advice for people who are just starting out in game dev?
+
+4. What has been your favorite game that you've created so far?
+
+5. When creating games, what comes first for you: the coding, artwork, writing, or something else? And what is your favorite part of game development?
+
+6. Are there any resources that you think every game developer should try using at least once?
+
+7. And finally, I always like to end interviews with a fun question: If you were an NPC in a videogame, what kind of character do you think you'd be (i.e. a random street vendor, the main villain, the tutorial character, etc.)?
+
+Last thing, how would you like me to refer to you in the blog post? Is there a preferred name and pronouns you'd like me to use?
+
+====
+
+I prefer "AK", and my pronoun is "he".
+Attaching a photo of me and Alex Hansen accepting an award at GDEX 2025 for our game Zen Garden. (I'm the dopey bald guy)
+
+In case you want to include links:
+Zen Garden: https://aksommerville.itch.io/zen-no-niwa
+Spelling Bee: https://aksommerville.itch.io/spelling-bee
+"a big one": https://aksommerville.com/bellacopia/
+
+1.
+Believe it or not, I've been at this for more than 30 years.
+I like to say, I've been making retro games since they weren't retro.
+
+2.
+My brothers and I got an NES in 1988, and I instantly fell in love with The Legend of Zelda.
+So even as a little kid I knew this is what I want to do.
+
+3.
+Probably the biggest mistake I made early on was coupling too tightly to the underlying platform.
+I wrote dozens of little games for the 68k Macintosh in the 90s, but they all refer to deprecated APIs all over the place, it would be a nightmare to port them.
+WebAssembly is a great way to dodge this problem: When you build game logic for Wasm, it can only see whatever API you give it explicitly.
+For the past three years or so, all my games have been targetting the same API, so keeping them up to date is a breeze.
+
+4.
+I've been working on a big one for the past year, the biggest game I've ever made by most measures.
+That's my favorite, but then again, the current one is always your favorite, isn't it?
+Among my released games, I really love Spelling Bee. That was a silly experiment, can a formal-combat RPG work if the battles are little Scrabble contests? And it totally does work.
+
+5.
+Favorite part? All of the above, by far!
+Stanley Kubrick used to say that opera and cinema are the highest art forms because they combine so many different domains of art.
+But he was wrong! It's video games. :P
+
+6.
+To do things right, you should always work from a rock-solid foundation.
+So that means understanding the stack you're building on, all the way down.
+Even if you use higher-level tools for the real work, which you'd be crazy not to, you still need to fully understand what's going on down below.
+For web games especially, you really don't need anything above the browser; the browser is already a very convenient runtime framework.
+
+7.
+If I was any NPC from any video game ever, I'd be this guy, from Great Greed.
+"Herbal is the disposable book on recuperation." Indeed.

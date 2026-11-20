@@ -51,6 +51,19 @@ Game ideas floating around:
 - Vampire Rescue. Sitter but vampires instead of children.
 - Sister Act: The Video Game. Multiplayer rhythm game for NES. If I ever figure out NES. Obviously we'll never get permission to distribute it, but it's still hilarious.
 - Dagger in the Dark: Murder mystery, works like a dinner party puzzle. There's a Pi project c 2014 called `mm` with the basic idea.
+- - Witnesses that speak a "foreign language", substitution cipher.
+- - Witnesses that have taken a vow of silence, so you have to wheel a chalkboard to them, sokobanny puzzles.
+- - Witnesses that demand a bribe, fetch quests. Oblique hint to want they want, like "I want something invented by somebody born on 11 February.". Light bulb! So you have to look things up.
+- - Quantumly entangled witnesses. Two witnesses give one clue. One the odd letters and one the evens.
+- - Liars. Must determine for each witness whether they tell the truth or not. Every witness gives two facts.
+- - Maybe you play three rounds per session: One straight, one with all tricks except Liars, then one with Liars.
+- - Somebody eating a lifetime supply of candy, so you have to cut off the candy flow to understand him.
+- - "I'll talk but not here. The walls have ears.", and you have to meet them at an appointed place and time, which you'll surely forget.
+- - Sleeping witnesses that you have to enter their dream. Maybe bump, wait one second, then bump again.
+- Some kind of open world trading and crafting game, with no universal currency.
+- - eg collect acorns in the forest, but the forest merchants don't want them. Acorns are valuable in the desert.
+- - Every commodity in the world is permanent and strictly limited. Like, trees don't grow back if you chop them down.
+- - Dance near an animal to take control of it. Rabbits can dug tunnels, birds can fly to the islands, etc. Each animal has its own inventory.
 
 Other things:
 
